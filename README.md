@@ -6,7 +6,7 @@ A full-stack enterprise banking analytics platform built with **FastAPI**, **Str
 
 ### Portals
 
-- **Customer Portal** — View balance, transactions, spending analytics, balance trends, cash flow, and a financial calculator (EMI / Savings / Compound Interest)
+- **Customer Portal** — View balance, transactions, spending analytics, balance trends, And cash flow
 - **Branch Management Portal** — Monitor branch performance, customer portfolios, monthly activity, category analysis, and top performers
 - **Admin Control Panel** — Full system oversight with TOTP MFA, manager approvals, branch comparison, global analytics, and customer lookup
 
